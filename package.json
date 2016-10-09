@@ -1,10 +1,17 @@
 {
   "name": "koajs-cors",
-  "version": "1.0.0",
-  "description": "koajs plugin cors",
+  "version": "1.0.3",
+  "description": "koajs middleware cors",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s249359986/koajs-cors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s249359986/koajs-cors/issues"
   },
   "keywords": [
     "cors",
@@ -12,6 +19,6 @@
     "koajs",
     "middleware"
   ],
-  "author": "7k",
+  "author": "7ke",
   "license": "ISC"
 }
