@@ -1,0 +1,17 @@
+{
+  "name": "koajs-cors",
+  "version": "1.0.0",
+  "description": "koajs plugin cors",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cors",
+    "koa",
+    "koajs",
+    "middleware"
+  ],
+  "author": "7k",
+  "license": "ISC"
+}
